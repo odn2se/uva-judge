@@ -3,9 +3,10 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
+ * Rename class "Main" instead of Prob100 upon submission
  * Created by phand on 9/28/16.
  */
-class Main {
+class Prob100 {
     private static final Map<Long, Integer> nMemo = new HashMap<>();
 
     public static void main(String[] args) {
